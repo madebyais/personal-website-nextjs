@@ -56,7 +56,7 @@ export default function Home() {
         </div>
 
         <div className={`mt-5`}>
-          I&apos;m so grateful that for the last 10 years my journey in software engineering, I&apos;m able to play & implement:<br/>
+          I&apos;m so grateful that for the last 10 years of my software engineering journey, I&apos;m able to play & implement:<br/>
           {profile.technology.secondary.map((item, i) => (
             <Tag key={i}>{item}</Tag>
           ))}
