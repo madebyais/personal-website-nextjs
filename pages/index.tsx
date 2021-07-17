@@ -22,7 +22,7 @@ export default function Home() {
       ]
     },
     interest: [
-      'Stock analysis using Python', 'Blockchain'
+      'Stock market analysis using Python', 'Blockchain'
     ],
     social: [
       { type: 'linkedin', url: 'https://www.linkedin.com/in/farisf/' },
